@@ -5,7 +5,7 @@
 	<property name="ireport.x" value="0"/>
 	<property name="ireport.y" value="0"/>
 	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="testeABS"/>
-	<property name="net.sf.jasperreports.data.adapter" value="D:\Projetos\JsonAbs\src\jasper\testeABS.jrdax"/>
+	<property name="net.sf.jasperreports.data.adapter" value="D:\Projetos\JasperJson\src\jasper\testeABS.jrdax"/>
 	<property name="com.jaspersoft.studio.report.description" value=""/>
 	<queryString language="JSON">
 		<![CDATA[]]>
